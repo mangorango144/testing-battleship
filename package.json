@@ -1,0 +1,16 @@
+{
+  "name": "testing-battleship",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
